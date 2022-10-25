@@ -1,2 +1,2 @@
 # bootstrap-egzerzsiz-calismalari
-Patika Bootstrap bölümündeki egzerzsiz çalışmalarım
+Patika Bootstrap bölümündeki egzersiz çalışmalarım
